@@ -52,6 +52,6 @@ p {
 
 @media (max-width: 376px) {
     .quadradoBranco {
-        margin: 65px;
+        margin: 65px 0;
     }
 }
