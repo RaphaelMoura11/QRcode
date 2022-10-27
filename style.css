@@ -11,11 +11,11 @@ body {
     font-family: 'Outfit', sans-serif;
 }
 
-.quadradoBranco {
-    width: 300px;
+main {
+    width: 310px;
     height: 500px;
     background: hsl(0, 0%, 100%);
-    margin: 135px;
+    margin: 140px 0 130px 0;
     border-radius: 5%;
     display: flex;
     flex-direction: column;
@@ -24,21 +24,22 @@ body {
 
 img {
     border-radius: 5%;
-    width: 270px;
-    margin: 10px;
+    height: 300px;
+    width: 280px;
+    margin: 15px 15px 0 15px;
 }
 
 .texto {
-    width: 250px;
+    width: 270px;
 }
 
 h3 {
-    font-size: 20px;
+    font-size: 23px;
     color: hsl(218, 44%, 22%);
 }
 
 p {
-    font-size: 15px;
+    font-size: 16px;
     color: hsl(220, 15%, 55%);
 }
 
@@ -51,7 +52,7 @@ p {
 }
 
 @media (max-width: 376px) {
-    .quadradoBranco {
+    main {
         margin: 65px 0;
     }
 }
