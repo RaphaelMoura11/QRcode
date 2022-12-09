@@ -16,7 +16,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: (https://your-solution-url.com)
+- Solution URL: (https://www.frontendmentor.io/solutions/qrcode-com-css-e-html-MOOjfHggzH)
 
 ## My process
   This is a easy-to-develop project to use basic CSS and HTML content.
